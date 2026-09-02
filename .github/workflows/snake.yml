@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake svgs (golden hour palette)
+      - name: generate snake svgs (mint cream palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#F59E0B&color_dots=#FDE68A,#FBBF24,#F59E0B,#D97706,#B45309
-            dist/snake-light.svg?palette=github-light&color_snake=#B45309&color_dots=#FDE68A,#FBBF24,#F59E0B,#D97706,#B45309
+            dist/snake-dark.svg?palette=github-dark&color_snake=#2DD4BF&color_dots=#99F6E4,#5EEAD4,#2DD4BF,#14B8A6,#0F766E
+            dist/snake-light.svg?palette=github-light&color_snake=#0F766E&color_dots=#99F6E4,#5EEAD4,#2DD4BF,#14B8A6,#0F766E
 
       - name: push snake svgs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
