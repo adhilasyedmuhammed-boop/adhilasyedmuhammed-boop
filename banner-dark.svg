@@ -1,0 +1,53 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Adhila K S — Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#241C0B"/>
+      <stop offset="0.55" stop-color="#1A150C"/>
+      <stop offset="1" stop-color="#100D05"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="16" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#F59E0B" opacity="0.10"/>
+    </pattern>
+    <clipPath id="sunClip"><rect x="700" y="0" width="500" height="252"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <!-- horizon -->
+  <line x1="0" y1="252" x2="1200" y2="252" stroke="#B45309" stroke-width="1" opacity="0.45"/>
+  <line x1="640" y1="252" x2="1200" y2="252" stroke="#F59E0B" stroke-width="2" opacity="0.8"/>
+
+  <!-- rising sun -->
+  <g filter="url(#glow)">
+    <circle cx="960" cy="252" r="120" fill="url(#sun)" clip-path="url(#sunClip)" opacity="0.95"/>
+  </g>
+
+  <!-- sun rays -->
+  <g stroke="#FCD34D" stroke-width="2.5" stroke-linecap="round" opacity="0.75">
+    <line x1="960" y1="148" x2="960" y2="126"/>
+    <line x1="906" y1="166" x2="894" y2="148"/>
+    <line x1="1014" y1="166" x2="1026" y2="148"/>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#FCD34D">
+    <path d="M836 76 l3.5 9 9 3.5 -9 3.5 -3.5 9 -3.5 -9 -9 -3.5 9 -3.5 z" opacity="0.9"/>
+    <path d="M1108 92 l2.5 6.5 6.5 2.5 -6.5 2.5 -2.5 6.5 -2.5 -6.5 -6.5 -2.5 6.5 -2.5 z" opacity="0.7"/>
+    <path d="M700 180 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2 z" opacity="0.55"/>
+  </g>
+
+  <!-- text -->
+  <text x="84" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="2" fill="#FCD34D">Adhila K S</text>
+  <rect x="86" y="158" width="150" height="4" rx="2" fill="#F59E0B"/>
+  <text x="84" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="9" fill="#FDE68A">FULL-STACK DEVELOPER</text>
+  <text x="84" y="238" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" letter-spacing="1" fill="#D97706">Next.js · React · Node.js · MongoDB · Python · Tailwind CSS</text>
+</svg>
