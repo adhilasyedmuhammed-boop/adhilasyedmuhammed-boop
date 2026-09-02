@@ -82,6 +82,10 @@
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/projects/projects.svg" alt="Projects" />
+  
+  <p style="text-align: center; margin-top: 20px; color: #64748b; font-size: 14px;">
+    Click project cards for live demos and repository links
+  </p>
 </div>
 
 ---
