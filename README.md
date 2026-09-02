@@ -1,13 +1,13 @@
 <!-- ══════════════════════════════════════════════════════════
-     Mint Cream · handcrafted profile for @adhilasyedmuhammed-boop
-     Fresh horizon theme · works in GitHub dark & light mode
+     Deep Forest Green · handcrafted profile for @adhilasyedmuhammed-boop
+     Professional green theme matching contribution graph · works in GitHub dark & light mode
      ══════════════════════════════════════════════════════════ -->
 
 <!-- ===== HERO BANNER (theme-aware) ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light.svg">
-  <img alt="Adhila K S — Full-Stack Developer" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-dark-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light-green.svg">
+  <img alt="Adhila K S — Full-Stack Developer" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light-green.svg">
 </picture>
 
 <div align="center">
@@ -47,20 +47,20 @@
 <!-- Streak — full width, theme-aware -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=0E1B18&stroke=2DD4BF&ring=5EEAD4&fire=34D399&currStreakLabel=5EEAD4&sideLabels=14B8A6&currStreakNum=F0FDFA&sideNums=F0FDFA&dates=14B8A6&titleColor=5EEAD4&card_width=1000">
-    <img width="100%" alt="Adhila's streak" src="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=F0FDFA&stroke=0F766E&ring=14B8A6&fire=0D9488&currStreakLabel=0F766E&sideLabels=115E59&currStreakNum=134E4A&sideNums=134E4A&dates=0F766E&titleColor=0F766E&card_width=1000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=0A1815&stroke=059669&ring=10B981&fire=34D399&currStreakLabel=10B981&sideLabels=047857&currStreakNum=F0FDF4&sideNums=F0FDF4&dates=047857&titleColor=10B981&card_width=1000">
+    <img width="100%" alt="Adhila's streak" src="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=F0FDF4&stroke=059669&ring=34D399&fire=10B981&currStreakLabel=059669&sideLabels=047857&currStreakNum=065F46&sideNums=065F46&dates=059669&titleColor=059669&card_width=1000">
   </picture>
 </div>
 
 <!-- Stats + Top languages — side by side, theme-aware -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adhilasyedmuhammed-boop&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=5EEAD4&icon_color=2DD4BF&text_color=99F6E4&bg_color=0E1B18">
-    <img width="49%" alt="Adhila's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adhilasyedmuhammed-boop&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F766E&icon_color=0D9488&text_color=134E4A&bg_color=F0FDFA">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adhilasyedmuhammed-boop&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=10B981&icon_color=059669&text_color=34D399&bg_color=0A1815">
+    <img width="49%" alt="Adhila's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adhilasyedmuhammed-boop&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=059669&icon_color=047857&text_color=065F46&bg_color=F0FDF4">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilasyedmuhammed-boop&layout=compact&langs_count=8&hide_border=true&title_color=5EEAD4&text_color=99F6E4&bg_color=0E1B18">
-    <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilasyedmuhammed-boop&layout=compact&langs_count=8&hide_border=true&title_color=0F766E&text_color=134E4A&bg_color=F0FDFA">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilasyedmuhammed-boop&layout=compact&langs_count=8&hide_border=true&title_color=10B981&text_color=34D399&bg_color=0A1815">
+    <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhilasyedmuhammed-boop&layout=compact&langs_count=8&hide_border=true&title_color=059669&text_color=065F46&bg_color=F0FDF4">
   </picture>
 </div>
 
@@ -93,16 +93,16 @@
 <div align="center">
 
   <a href="mailto:adhilasyedmuhammed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-134E4A?style=for-the-badge&logo=gmail&logoColor=5EEAD4&labelColor=134E4A" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-065F46?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=065F46" alt="Gmail" />
   </a>
   &nbsp;
   <a href="Adhila_KS_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View_My_Resume-134E4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=5EEAD4&labelColor=134E4A" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-View_My_Resume-065F46?style=for-the-badge&logo=adobeacrobatreader&logoColor=10B981&labelColor=065F46" alt="Resume" />
   </a>
   <!-- LinkedIn link കിട്ടുമ്പോൾ ഈ comment നീക്കി ചേർക്കുക:
   &nbsp;
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-134E4A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4&labelColor=134E4A" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-065F46?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=065F46" alt="LinkedIn" />
   </a>
   -->
 
