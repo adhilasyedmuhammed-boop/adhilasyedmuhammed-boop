@@ -1,0 +1,27 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#0A101F"/>
+  <text x="20" y="30" font-family="monospace" font-size="14" fill="#94A3B8">adhilasyedmuhammed@gmail.com - % ./profile.sh --live</text>
+  <text x="20" y="50" font-family="monospace" font-size="14" fill="#64748b">VISUAL.MAP</text>
+  <text x="20" y="70" font-family="monospace" font-size="14" fill="#64748b">SYSTEM.INFO ● LIVE</text>
+  
+  <text x="20" y="100" font-family="monospace" font-size="12" fill="#94A3B8">adhilasyedmuhammed@gmail.com</text>
+  <text x="20" y="120" font-family="monospace" font-size="12" fill="#94A3B8">Subject ............................................................ Adhila K S</text>
+  <text x="20" y="140" font-family="monospace" font-size="12" fill="#94A3B8">Role ..................................................... Full-Stack Developer</text>
+  <text x="20" y="160" font-family="monospace" font-size="12" fill="#94A3B8">Origin ..................................................... India 🇮🇳</text>
+  <text x="20" y="180" font-family="monospace" font-size="12" fill="#94A3B8">Education .......................................................... BSc in CSE</text>
+  <text x="20" y="200" font-family="monospace" font-size="12" fill="#94A3B8">Status ......................................... Building + Learning + Shipping</text>
+  <text x="20" y="220" font-family="monospace" font-size="12" fill="#94A3B8">ToolChain ................................. VS Code, Git, Android Studio, Figma</text>
+  <text x="20" y="240" font-family="monospace" font-size="12" fill="#94A3B8">Core.Lang ................................................... Dart, C++, Python</text>
+  <text x="20" y="260" font-family="monospace" font-size="12" fill="#94A3B8">Core.Frontend ......................................................... Flutter</text>
+  <text x="20" y="280" font-family="monospace" font-size="12" fill="#94A3B8">Core.Backend .......................................................... Node.js</text>
+  <text x="20" y="300" font-family="monospace" font-size="12" fill="#94A3B8">Core.Database ............................................... Firebase, MongoDB</text>
+  <text x="20" y="320" font-family="monospace" font-size="12" fill="#94A3B8">Core.Infra ................................................ Vercel, Docker, Git</text>
+  
+  <text x="20" y="350" font-family="monospace" font-size="12" fill="#64748b">- Contact ---------------------------------------------------------------------</text>
+  <text x="20" y="370" font-family="monospace" font-size="12" fill="#94A3B8">Grid.Mail ......................................... adhilasyedmuhammed@gmail.com</text>
+  <text x="20" y="390" font-family="monospace" font-size="12" fill="#94A3B8">Grid.Portfolio .................................................... coming soon</text>
+  <text x="20" y="410" font-family="monospace" font-size="12" fill="#94A3B8">Grid.LinkedIn ............................................ adhila-ks-672249358</text>
+  <text x="20" y="430" font-family="monospace" font-size="12" fill="#94A3B8">Grid.GitHub ......................................................... @adhilasyedmuhammed-boop</text>
+  <text x="20" y="450" font-family="monospace" font-size="12" fill="#94A3B8">Grid.Facebook ...................................................... @adhilasyedmuhammed</text>
+  <text x="20" y="470" font-family="monospace" font-size="12" fill="#94A3B8">▸ More about me & projects below in README ↓</text>
+</svg>

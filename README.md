@@ -3,11 +3,11 @@
      Professional green theme matching contribution graph · works in GitHub dark & light mode
      ══════════════════════════════════════════════════════════ -->
 
-<!-- ===== HERO BANNER (theme-aware) ===== -->
+<!-- ===== PIXEL ART AVATAR (theme-aware) ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-dark-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light-green.svg">
-  <img alt="Adhila K S — Full-Stack Developer" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/banner-light-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/avatar-pixel-art-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/avatar-pixel-art-light.svg">
+  <img alt="Adhila K S — Full-Stack Developer" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/main/avatar-pixel-art-light.svg">
 </picture>
 
 <div align="center">
@@ -47,7 +47,7 @@
 <!-- Streak — full width, theme-aware -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=0A1815&stroke=059669&ring=10B981&fire=34D399&currStreakLabel=10B981&sideLabels=047857&currStreakNum=F0FDF4&sideNums=F0FDF4&dates=047857&titleColor=10B981&card_width=1000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1000">
     <img width="100%" alt="Adhila's streak" src="https://streak-stats.demolab.com/?user=adhilasyedmuhammed-boop&hide_border=true&background=F0FDF4&stroke=059669&ring=34D399&fire=10B981&currStreakLabel=059669&sideLabels=047857&currStreakNum=065F46&sideNums=065F46&dates=059669&titleColor=059669&card_width=1000">
   </picture>
 </div>
@@ -80,11 +80,9 @@
 
 ### 🧩 Projects
 
-| Project | What it is | Link |
-|---------|------------|------|
-| 🛍️ **Vogue Plaza** | E-commerce web application built with JavaScript, front to back | [repo](https://github.com/adhilasyedmuhammed-boop/vogue-plaza-final) |
-| 🩺 **Health Dashboard** | Health metrics dashboard web app | [repo](https://github.com/adhilasyedmuhammed-boop/health-dashboard-main) |
-| 🎟️ **Guestify** | Team project — event-management platform built with Next.js | *in progress* |
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/adhilasyedmuhammed-boop/adhilasyedmuhammed-boop/projects/projects.svg" alt="Projects" />
+</div>
 
 ---
 
@@ -93,11 +91,11 @@
 <div align="center">
 
   <a href="mailto:adhilasyedmuhammed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-065F46?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=065F46" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Gmail" />
   </a>
   &nbsp;
   <a href="Adhila_KS_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View_My_Resume-065F46?style=for-the-badge&logo=adobeacrobatreader&logoColor=10B981&labelColor=065F46" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-View_My_Resume-0A101F?style=for-the-badge&logo=adobeacrobatreader&logoColor=10B981&labelColor=0A101F" alt="Resume" />
   </a>
   <!-- LinkedIn link കിട്ടുമ്പോൾ ഈ comment നീക്കി ചേർക്കുക:
   &nbsp;
